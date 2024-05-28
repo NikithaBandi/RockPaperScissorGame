@@ -1,10 +1,3 @@
-# RockPaperScissorGame
-
-
-
-
-
-
 import java.util.Scanner;
 import java.util.Random;
 
@@ -69,3 +62,4 @@ class RockPaperScissors {
     sc.close();
 }
 }
+

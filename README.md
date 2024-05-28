@@ -1,4 +1,10 @@
 # RockPaperScissorGame
+
+
+
+
+
+
 import java.util.Scanner;
 import java.util.Random;
 
@@ -63,4 +69,3 @@ class RockPaperScissors {
     sc.close();
 }
 }
-![image](https://github.com/NikithaBandi/RockPaperScissorGame/assets/130413215/29ca5b38-651a-4776-94ff-e88946c80f08)

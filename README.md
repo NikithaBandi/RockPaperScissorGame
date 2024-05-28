@@ -1,15 +1,12 @@
 import java.util.Scanner;
 import java.util.Random;
-
 class RockPaperScissors {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while(true){
         String [] rps = {"r", "p", "s"};
         String computerMove = rps[new Random().nextInt(rps.length)];
-        
         String playerMove;
-        
         while(true) {
         System.out.println("Please enter your move (rock = r, paper = p, or scissor = s)");
         playerMove = sc.nextLine();
